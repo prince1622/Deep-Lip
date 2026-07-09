@@ -1,0 +1,32 @@
+# Virtual environments
+.venv/
+.venv-macos/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Large / local assets (keep out of GitHub)
+data/
+models/
+*.zip
+*.ckpt
+*.h5
+*.pb
+*.task
+
+# Session / generated media
+app/_session_upload.mp4
+app/preview_display.mp4
+app/preview_mouth.gif
+app/__pycache__/
+tools/__pycache__/
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/

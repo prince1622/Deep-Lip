@@ -1,0 +1,10 @@
+tensorflow>=2.15,<3
+tf_keras>=2.15,<3
+streamlit>=1.28
+imageio>=2.31
+opencv-python-headless>=4.8
+numpy>=1.24
+mediapipe>=0.10.9
+certifi>=2024.0.0
+truststore>=0.9
+faster-whisper>=1.0.0
